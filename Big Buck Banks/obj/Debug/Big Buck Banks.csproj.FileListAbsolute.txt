@@ -1,0 +1,39 @@
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.exe.config
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.csprojResolveAssemblyReference.cache
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.FormMain.resources
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Properties.Resources.resources
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.csproj.GenerateResource.Cache
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.exe
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.pdb
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.exe
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.pdb
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.MainMenu.resources
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Deposit_Withdraw.resources
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Balance.resources
+E:\OPPL\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.exe.config
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.exe
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.pdb
+E:\OPPL\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.exe
+E:\OPPL\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.pdb
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.csprojResolveAssemblyReference.cache
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Balance.resources
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Deposit_Withdraw.resources
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.FormMain.resources
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.MainMenu.resources
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Properties.Resources.resources
+E:\OPPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.exe.config
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.exe
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.pdb
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.exe
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\bin\Debug\Big Buck Banks.pdb
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.csprojResolveAssemblyReference.cache
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Balance.resources
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Deposit_Withdraw.resources
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.FormMain.resources
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.MainMenu.resources
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Properties.Resources.resources
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big Buck Banks.csproj.GenerateResource.Cache
+C:\Users\sebas\Documents\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.TransferForm.resources
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.TransferForm.resources
+C:\Users\svasco\Documents\OOPL\Big Buck Banks\Big Buck Banks\obj\Debug\Big_Buck_Banks.Receipt.resources
